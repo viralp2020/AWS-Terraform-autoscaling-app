@@ -1,4 +1,4 @@
-Terraform Infrastructure as Code for AWS
+Terraform Infrastructure as Code for AWS.
 This repository contains Terraform scripts to provision infrastructure on AWS including VPC, subnets, security groups, load balancer, autoscaling group, and more.
 
 Table of Contents
